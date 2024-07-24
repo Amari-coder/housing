@@ -137,9 +137,10 @@ background-color: rgba(242, 240, 242, 1);
     margin: 170px auto;
 }
 
-.hamburger{
+.fa-solid.fa-bars.hamburger{
     display: none;
 }
+
 
 .homepage{
     width: 1440px;
