@@ -749,6 +749,7 @@ padding: -156px 52px 40px;
     }
 
     .fa-solid.fa-bars.hamburger{
-        display: block
+        display: block;
+        margin-right: 50px;
     }
 }
