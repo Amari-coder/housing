@@ -627,14 +627,14 @@ padding: -156px 52px 40px;
     }
 
     .text p{
-    font-family: Lato;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 20px;
-    text-align: center;
-    width: 279px;
-    height: 120px;
-    margin: 0 auto;
+      font-family: Lato;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 20px;
+      text-align: center;
+      width: 279px;
+      height: 120px;
+      margin: 0 auto;
     }
 
     .feature{
@@ -746,5 +746,9 @@ padding: -156px 52px 40px;
     }
     .img13{
         display: none;
+    }
+
+    .fa-solid.fa-bars.hamburger{
+        display: block
     }
 }
